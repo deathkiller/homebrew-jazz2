@@ -14,5 +14,5 @@
 <hr/>
 
 <div align="center">
-    <b>This repository contains only Homebrew tap providing a macOS cask for <a href="https://github.com/deathkiller/jazz2-native">deathkiller/jazz2-native</a>.</b><br>For more information, visit <a href="http://deat.tk/jazz2/">the official website</a>. You can install it using <code>brew install deathkiller/jazz2/jazz2</code>
+    <b>This repository contains only Homebrew tap providing a macOS cask for <a href="https://github.com/deathkiller/jazz2-native">deathkiller/jazz2-native</a>.</b><br>For more information, visit <a href="http://deat.tk/jazz2/">the official website</a>. You can install it using <code>brew trust deathkiller/jazz2</code> followed by <code>brew install deathkiller/jazz2/jazz2</code>
 </div>
